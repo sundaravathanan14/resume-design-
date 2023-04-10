@@ -1,0 +1,29 @@
+
+
+.container {
+
+     height: 150px;
+    width: auto;
+    background-color: black;
+
+}
+
+.container1{
+    height: 10px;
+    width: auto;
+}
+
+img {
+    border-radius: 40%;
+    display: block;
+    background-color: black;
+    
+     
+  }
+
+  .center {
+    display: flex;
+    margin-left: 500px;
+    width: 12%;
+    
+  }
